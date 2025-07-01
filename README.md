@@ -17,7 +17,7 @@ I'm always excited to connect with like-minded individuals. Feel free to reach o
 
 ### 📱 Social Media
 - **LinkedIn**: [Shivam Singh Yadav](https://www.linkedin.com/in/shivam-singh-yadav-743657240/)
-- **Instagram**: [@i.am_shiv.am](https://www.instagram.com/i.am_shiv.am/)
+- **Instagram**: [@i.am_shiv.am](https://www.instagram.com/_ssy._/)
 
 ## 🎨 Fun Fact
 Did you know? When I'm not in front of a screen, I love exploring nature and capturing beautiful landscapes through my camera lens. 📸
