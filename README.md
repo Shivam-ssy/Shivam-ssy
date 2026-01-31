@@ -1,60 +1,72 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+<h2 align="center">Hi, I'm Shivam 👋</h2>
+<p align="center">
+  <strong>Full Stack Developer</strong> · Backend Focus · Builder
+</p>
 
-Hey there! 👋  
-I’m **Shivam Singh Yadav**, a passionate **Frontend** and **MERN Stack Developer** who loves turning ideas into interactive, scalable, and visually engaging digital experiences.  
-
----
-
-## 👨‍💻 About Me  
-I’m driven by curiosity and creativity. From designing pixel-perfect UIs to architecting efficient backend systems, I enjoy every step of the development journey.  
-My goal? To build products that not only **look great** but also **perform seamlessly**.  
-
-### 🔧 Tech Stack & Tools  
-💻 **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript  
-🧠 **Backend:** Node.js, Express.js, MongoDB, RESTful APIs  
-⚙️ **Others:** Redux, JWT Auth, Mongoose, Tailwind CSS, Git/GitHub, Postman  
-🚀 **Currently Exploring:** Flutter, DevOps basics, and Cloud integration  
+<p align="center">
+  <a href="https://github.com/Shivam-ssy">
+<img src="https://komarev.com/ghpvc/?username=Shivam-ssy&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 💡 What I Love Working On  
-- ✨ Crafting **beautiful, responsive UI/UX** designs  
-- 🧩 Building **full-stack web apps** using the MERN stack  
-- 🛠️ Implementing **authentication & role-based access**  
-- 🌍 Contributing to **open-source projects**  
-- 🔄 Exploring **tech innovations** in AI, automation, and system design  
+## 🧠 About Me
+
+- 💻 Full Stack Developer (MERN · Next.js · React Native)
+- 🔧 Backend-first mindset & scalable systems
+- 🚀 Love shipping real-world applications
+- 🌱 Learning Machine Learning & system design
+- ⚡ Clean architecture > hacks
 
 ---
 
-## 📚 Current Projects  
-- 🏫 **Hackathon Management Platform** — Built with Next.js + MongoDB to connect companies, teams, and admins  
-- 📱 **Productivity Tracker App** — Flutter app for tracking tasks, focus time, and activity statistics  
-- 🛒 **Full-Stack Delivery App** — React Native + Node.js + MongoDB with authentication and Redux integration  
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,tailwind,git,linux" />
+</p>
 
 ---
 
-## 🌐 Let's Connect!  
-Let’s collaborate, brainstorm, or just chat about tech trends and cool projects!  
+## 📊 GitHub Overview
 
-📎 **Socials**  
-- 💼 [LinkedIn – Shivam Singh Yadav](https://www.linkedin.com/in/shivam-singh-yadav-743657240/)  
-- 📸 [Instagram – @v8.ssy.mood](https://www.instagram.com/v8.ssy.mood/)  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-ssy&theme=github_dark" />
+</p>
 
----
-
-## 🎨 Fun Fact  
-When I’m not coding, you’ll probably find me **exploring nature**, **clicking photos**, or **experimenting with creative ideas** that blend art and technology. 📷🌿  
-
----
-
-⭐ **“Code. Create. Collaborate.”**  
-If you like my work, drop a ⭐ on my repositories or connect for collaboration — I’m always up for exciting ideas!  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-ssy&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam-ssy&theme=github_dark" />
+</p>
 
 ---
 
-Made with ❤️ & ☕ by **[Shivam Singh Yadav](https://github.com/Shivam-ssy)**  
+## 🔥 Focus Areas
 
-<!---
-Shivam-ssy/Shivam-ssy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔐 Authentication & Authorization
+- 🌐 REST APIs & Backend Architecture
+- 📱 Mobile Apps (React Native)
+- 🧩 DSA & Problem Solving
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-shivam-ssy/">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/v8.ssy.mood/">
+    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:shivamsinghyadavssy888@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build things that matter.</i>
+</p>
