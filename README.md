@@ -1,72 +1,64 @@
-<h2 align="center">Hi, I'm Shivam 👋</h2>
-<p align="center">
-  <strong>Full Stack Developer</strong> · Backend Focus · Builder
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Shivam-ssy">
-<img src="https://komarev.com/ghpvc/?username=Shivam-ssy&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vcenter=true&width=600&height=60&lines=Shivam+Singh+Yadav;Full+Stack+Developer" alt="Header" />
 
----
+  <p align="center">
+    <code>React</code> &nbsp;•&nbsp; <code>Next.js</code> &nbsp;•&nbsp; <code>Node.js</code> &nbsp;•&nbsp; <code>TypeScript</code> &nbsp;•&nbsp; <code>MongoDB</code>
+  </p>
 
-## 🧠 About Me
+  <br />
 
-- 💻 Full Stack Developer (MERN · Next.js · React Native)
-- 🔧 Backend-first mindset & scalable systems
-- 🚀 Love shipping real-world applications
-- 🌱 Learning Machine Learning & system design
-- ⚡ Clean architecture > hacks
+  <a href="https://linkedin.com/in/dev-shivam-ssy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shivamsinghyadavssy888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<br />
 
 ---
 
-## 🛠 Tech Stack
+### ⚡ Overview
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,tailwind,git,linux" />
-</p>
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-ssy&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-ssy&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam-ssy&theme=github_dark" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h4>🎯 Core Focus</h4>
+      <p>Scalable Web Systems • Cross-Platform Mobile • AI Integrations</p>
+    </td>
+    <td width="50%" align="center">
+      <h4>📐 Architecture</h4>
+      <p>Clean Code • Type Safety • Microservices • High Performance</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 Focus Areas
+### 🛠️ Tech Stack
 
-- 🔐 Authentication & Authorization
-- 🌐 REST APIs & Backend Architecture
-- 📱 Mobile Apps (React Native)
-- 🧩 DSA & Problem Solving
+<div align="center">
 
----
+| Area | Stack |
+| :--- | :--- |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css&perline=6" alt="Frontend" /></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,js&perline=6" alt="Backend" /></a> |
+| **Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react&perline=6" alt="Mobile" /></a> |
+| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,redis&perline=6" alt="Database" /></a> |
+| **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma&perline=6" alt="Tools" /></a> |
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dev-shivam-ssy/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/v8.ssy.mood/">
-    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="mailto:shivamsinghyadavssy888@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <i>Build things that matter.</i>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivam-ssy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivam-ssy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="170" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-ssy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="98%" alt="GitHub Streak" />
+</p>
+
+---
