@@ -1,64 +1,204 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vcenter=true&width=600&height=60&lines=Shivam+Singh+Yadav;Full+Stack+Developer" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=Shivam%20Singh%20Yadav&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-  <p align="center">
-    <code>React</code> &nbsp;•&nbsp; <code>Next.js</code> &nbsp;•&nbsp; <code>Node.js</code> &nbsp;•&nbsp; <code>TypeScript</code> &nbsp;•&nbsp; <code>MongoDB</code>
-  </p>
+<br>
 
-  <br />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%7C+TypeScript;Building+Scalable+Applications" />
 
-  <a href="https://linkedin.com/in/dev-shivam-ssy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shivamsinghyadavssy888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br><br>
+
+<a href="https://linkedin.com/in/dev-shivam-ssy">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:shivamsinghyadavssy888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Shivam-ssy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br />
+<br>
 
 ---
 
-### ⚡ Overview
+<div align="center">
+
+## Tech I Work With
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,redis,reactnative,tailwind,java,spring,docker,git,github&perline=5" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## My Stack
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <h4>🎯 Core Focus</h4>
-      <p>Scalable Web Systems • Cross-Platform Mobile • AI Integrations</p>
-    </td>
-    <td width="50%" align="center">
-      <h4>📐 Architecture</h4>
-      <p>Clean Code • Type Safety • Microservices • High Performance</p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript" width="120"/>
+
+<br><br>
+
+<b>Frontend</b>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" width="90"/>
+
+<br><br>
+
+<b>Backend</b>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis" width="90"/>
+
+<br><br>
+
+<b>Database</b>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=react" width="60"/>
+
+<br><br>
+
+<b>Mobile</b>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## Featured Work
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### Taggle
+
+<a href="https://github.com/Shivam-ssy">
+
+<img src="https://skillicons.dev/icons?i=reactnative,appwrite,redux,kotlin" />
+
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OFFLINE--FIRST-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/BACKGROUND_SYNC-161B22?style=flat-square"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### FoodHub
+
+<img src="https://skillicons.dev/icons?i=reactnative,nodejs,express,mongodb" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST_API-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROLE_BASED-161B22?style=flat-square"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### HRMS
+
+<img src="https://skillicons.dev/icons?i=react,firebase,tailwind" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DASHBOARD-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/FIREBASE-161B22?style=flat-square"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### Current Focus
+
+<img src="https://skillicons.dev/icons?i=java,spring,docker" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-161B22?style=flat-square"/>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
 
 <div align="center">
 
-| Area | Stack |
-| :--- | :--- |
-| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css&perline=6" alt="Frontend" /></a> |
-| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,js&perline=6" alt="Backend" /></a> |
-| **Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react&perline=6" alt="Mobile" /></a> |
-| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,redis&perline=6" alt="Database" /></a> |
-| **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma&perline=6" alt="Tools" /></a> |
+## Contribution Graph
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-ssy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-### 📊 GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivam-ssy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivam-ssy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="170" alt="Top Languages" />
-</p>
+## Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-ssy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="98%" alt="GitHub Streak" />
-</p>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-ssy&theme=github_dark" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-ssy&theme=github_dark" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam-ssy&theme=github_dark" width="45%"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
